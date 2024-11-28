@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Godaddy/static/css/main.f3f519fc.css",
+    "main.js": "/Godaddy/static/js/main.6cc08791.js",
+    "static/js/453.807b4194.chunk.js": "/Godaddy/static/js/453.807b4194.chunk.js",
+    "static/media/mrq-Guide-IN-PK-Suraiya-tablet.webp": "/Godaddy/static/media/mrq-Guide-IN-PK-Suraiya-tablet.7421ed3f03180bbcfdb9.webp",
+    "static/media/Raheim-Thompson-D.webp": "/Godaddy/static/media/Raheim-Thompson-D.314bca506a9aae6bb0e3.webp",
+    "static/media/Header-img(1).webp": "/Godaddy/static/media/Header-img(1).7d92726fca0af72e1b49.webp",
+    "static/media/mrq-Guide-IN-PK-Suraiya-desktop.webp": "/Godaddy/static/media/mrq-Guide-IN-PK-Suraiya-desktop.bc942fa2267892b6ca3a.webp",
+    "static/media/Header-img(2).webp": "/Godaddy/static/media/Header-img(2).8e88cbb5908261c4b2b0.webp",
+    "static/media/Raheim-Thompson-M.webp": "/Godaddy/static/media/Raheim-Thompson-M.ab8df283b299ac4dd0e3.webp",
+    "static/media/mrq-Guide-IN-PK-Suraiya-mobile.webp": "/Godaddy/static/media/mrq-Guide-IN-PK-Suraiya-mobile.72eb18159e2b3ced0c55.webp",
+    "static/media/logo.png": "/Godaddy/static/media/logo.7726874ee127693c0458.png",
+    "static/media/Premium.webp": "/Godaddy/static/media/Premium.b80fed2b00bcfc12d780.webp",
+    "static/media/gd-guides-logo.svg": "/Godaddy/static/media/gd-guides-logo.97e33a4184546e569bb285df9afbc6b3.svg",
+    "static/media/Raheim-Thompson-site.webp": "/Godaddy/static/media/Raheim-Thompson-site.04156a76555205501242.webp",
+    "static/media/Premium(720).webp": "/Godaddy/static/media/Premium(720).21bae59194f08e58037b.webp",
+    "static/media/Premium2.webp": "/Godaddy/static/media/Premium2.2672c2ab50d58e9e4ce3.webp",
+    "static/media/Premium1.webp": "/Godaddy/static/media/Premium1.4f8cbdc447382b732288.webp",
+    "static/media/img-hp-airo-logo.svg": "/Godaddy/static/media/img-hp-airo-logo.0e3518b8d94797935ba6e77f8fc8934d.svg",
+    "index.html": "/Godaddy/index.html",
+    "main.f3f519fc.css.map": "/Godaddy/static/css/main.f3f519fc.css.map",
+    "main.6cc08791.js.map": "/Godaddy/static/js/main.6cc08791.js.map",
+    "453.807b4194.chunk.js.map": "/Godaddy/static/js/453.807b4194.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3f519fc.css",
+    "static/js/main.6cc08791.js"
+  ]
+}
